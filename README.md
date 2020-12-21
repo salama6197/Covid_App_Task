@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-## Getting Started
+## For Software Engineering Task
 
 This project is a starting point for a Flutter application.
 
